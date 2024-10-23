@@ -1,0 +1,4 @@
+﻿Account number,Product Category,Product type,Transaction Amount,Balance,Limit,Interest Rate,Customer ID
+23123452,Assets,Deposit,10000,10000,0,0,Jason Chan
+23123344,Liabilities,Loan,-7000,3000,20000,3,Kien Nguyen
+23123344,Liabilities,Credit Card,-2000,1000,15000,10,Kien Nguyen
